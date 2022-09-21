@@ -7,5 +7,5 @@
 </p>
 <p align="center">😊</p>
 
-- [个人网站](https://biaov.cn/)
+- [👉 个人网站](https://biaov.cn/)
 - 📧 Email: biaov@qq.com
