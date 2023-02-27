@@ -8,8 +8,8 @@
 </p>
 <p align="center">
     <a href="https://biaov.cn/" style="text-decoration: none !important;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaov&layout=compact&bg_color=ffffff" width="40.5%" title="mineh5ui" alt="mineh5ui" />
-     <img src="https://github-readme-stats.vercel.app/api?username=biaov" width="44%" title="biaov's github stats" alt="biaov's github stats" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaov&layout=compact&bg_color=ffffff" width="36%" title="mineh5ui" alt="mineh5ui" />
+     <img src="https://github-readme-stats.vercel.app/api?username=biaov" width="45.4%" title="biaov's github stats" alt="biaov's github stats" />
     </a>
 </p>
 <p align="center">😊</p>
