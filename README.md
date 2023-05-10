@@ -9,7 +9,7 @@
 <p align="center">😊😃😄😆😉😂😀😴😊</p>
 
 <a href="https://biaov.cn/">
-    <img src="https://biaov.cn/avatar.png" width="110px" title="mineh5ui" alt="mineh5ui" align="right" />
+    <img src="https://biaov.cn/avatar.png" width="100px" title="mineh5ui" alt="mineh5ui" align="right" />
 </a>
 
 - [👉 个人网站](https://biaov.cn/)
