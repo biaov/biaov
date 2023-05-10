@@ -16,3 +16,5 @@
 - [👉 个人网站 - Github](https://biaov.github.io/)
 - [👉 简易博客](http://wordpress.biaov.cn/)
 - 📧 Email: `biaov@qq.com`
+
+![介绍](https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&duration=2000&pause=1500&color=f56c6c&width=435&lines=~欢迎来到+biaov+的主页;希望这里的知识对你有所帮助！;祝你好运！+😃)
