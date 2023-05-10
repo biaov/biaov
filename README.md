@@ -6,6 +6,11 @@
      <img src="https://github-readme-stats.vercel.app/api?username=biaov" width="45.4%" title="biaov's github stats" alt="biaov's github stats" />
     </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/biaov?logo=googlefit&logoColor=f56c6c&label=followers" />
+  <img src="https://img.shields.io/github/stars/biaov?logo=starship&label=stars" />
+</p>
 <p align="center">😊😃😄😆😉😂😀😴😊</p>
 
 <a href="https://biaov.cn/">
