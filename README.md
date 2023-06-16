@@ -1,6 +1,6 @@
 #
 
-![biaov](https://raw.githubusercontent.com/biaov/biaov/github-user-contribution.svg)
+![biaov](https://raw.githubusercontent.com/biaov/biaov/output/github-user-contribution.svg)
 
 <p align="center">
     <a href="https://biaov.cn/" style="text-decoration: none !important;">
