@@ -34,8 +34,8 @@ python main.py \
 echo "${cyan}Pushing snake to Github..."
 
 # push the generated image to your github repository
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "biaov@qq.com"
+git config --global user.name "biaov"
 git add snake.svg
 git commit -m "Update snake" >/dev/null 2>&1
 git push origin main >/dev/null 2>&1
