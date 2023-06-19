@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://biaov.cn/">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaov&layout=compact&bg_color=45,ec8a6c,ed709d&title_color=fff&text_color=fff" width="36%" title="mineh5ui" alt="mineh5ui" />
-     <img src="https://github-readme-stats.vercel.app/api?username=biaov&show_icons=true&theme=gruvbox&include_all_commits=true&bg_color=45,6096db,6f86d6,2ae3fc&title_color=fff&text_color=fff&icon_color=fff" width="45.5%" title="biaov's github stats" alt="biaov's github stats" />
+     <img src="https://github-readme-stats.vercel.app/api?username=biaov&show_icons=true&theme=gruvbox&include_all_commits=true&bg_color=45,6096db,6f86d6,2ae3fc&title_color=fff&text_color=fff&icon_color=fff" width="46%" title="biaov's github stats" alt="biaov's github stats" />
     </a>
     <a href="https://blog.csdn.net/biao_feng">
       <img src="https://stats.justsong.cn/api/csdn?id=biao_feng&theme=vue-dark&lang=zh-CN" width="40%" title="CSDN 博客" alt="CSDN 博客" />
