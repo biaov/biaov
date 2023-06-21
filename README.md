@@ -6,7 +6,7 @@
      <img src="https://github-readme-stats.vercel.app/api?username=biaov&show_icons=true&theme=gruvbox&include_all_commits=true&bg_color=45,6096db,6f86d6,2ae3fc&title_color=fff&text_color=fff&icon_color=fff&locale=cn" width="47%" title="biaov's github stats" alt="biaov's github stats" />
     </a>
     <a href="https://blog.csdn.net/biao_feng">
-      <img src="https://stats.justsong.cn/api/csdn?id=biao_feng&theme=vue-dark&lang=zh-CN" width="38%" title="CSDN 博客" alt="CSDN 博客" />
+      <img src="https://stats.justsong.cn/api/csdn?id=biao_feng&theme=nord&lang=zh-CN" width="38%" title="CSDN 博客" alt="CSDN 博客" />
       <img src="https://dummyimage.com/400x100/fff/fff/" width="47%" title="CSDN 博客" alt="CSDN 博客" />
     </a>
 </p>
