@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/biaov?logo=googlefit&logoColor=f56c6c&label=Followers" alt="followers" />
   <img src="https://img.shields.io/github/stars/biaov?logo=starship&label=Stars" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=biaov&label=Profile%20views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=biaov&label=Profile&nbsp;Views" alt="Profile views" />
 </p>
 <p align="center">😊😃😄😆😉😂😀😴😊</p>
 
