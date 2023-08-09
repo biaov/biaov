@@ -11,12 +11,9 @@
     </a>
 </p>
 <p align="center">
-  <!-- <img src="https://img.shields.io/github/followers/biaov?logo=googlefit&logoColor=f56c6c&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/github/followers/biaov?logo=googlefit&logoColor=f56c6c&label=FOLLOWERS" alt="followers" />
   <img src="https://img.shields.io/github/stars/biaov?logo=starship&label=STARTS" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=biaov&label=PROFILE&nbsp;VIEWS" alt="Profile views" /> -->
-  <img src="https://img.shields.io/github/followers/biaov?logo=googlefit&logoColor=f56c6c&label=关注" alt="followers" />
-  <img src="https://img.shields.io/github/stars/biaov?logo=starship&label=☆☆☆" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=biaov&label=😊浏览" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=biaov&label=PROFILE&nbsp;VIEWS" alt="Profile views" />
 </p>
 <p align="center">😊😃😄😆😉😂😀😴😊</p>
 
