@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaov&layout=compact&bg_color=45,ec8a6c,ed709d&title_color=fff&text_color=fff&locale=cn" width="37%" title="mineh5ui" alt="mineh5ui" align="middle" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=biaov&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&bg_color=45,6096db,6f86d6,2ae3fc&title_color=fff&text_color=fff&icon_color=fff&locale=cn" width="49%" title="biaov's github stats" alt="biaov's github stats" align="middle" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=biaov&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=cn" width="49%" title="biaov's github stats" alt="biaov's github stats" align="middle" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biaov&theme=jolly&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh_Hans" width="49%" title="CSDN 博客" alt="CSDN 博客" align="middle" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biaov&theme=jolly&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh_Hans" width="49%" title="CSDN 博客" alt="Github 贡献时长" align="middle" />
   <a href="https://blog.csdn.net/biao_feng">
     <img src="https://stats.justsong.cn/api/csdn?id=biao_feng&theme=nord&lang=zh-CN" width="37%" title="CSDN 博客" alt="CSDN 博客" align="middle" />
   </a>
