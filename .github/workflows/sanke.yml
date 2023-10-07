@@ -1,4 +1,4 @@
-name: generate-animation
+name: generate animation
 
 on:
   schedule:
@@ -10,7 +10,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: generate snake.svg
