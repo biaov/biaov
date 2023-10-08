@@ -21,7 +21,7 @@ jobs:
           github_user_name: biaov
           outputs: |
             dist/snake.svg
-            dist/snake.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark
       - name: push snake.svg to the assets branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
