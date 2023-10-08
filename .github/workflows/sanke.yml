@@ -1,6 +1,4 @@
 name: generate-animation
-description: "生成一个关于贡献度的 SVG 动画"
-author: "biaov"
 
 on:
   schedule:
