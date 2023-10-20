@@ -32,5 +32,5 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=biaov&hide_border=true&theme=vue&custom_title=代码贡献曲线图&radius=16&area=true" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biaov&custom_title=代码贡献曲线图&bg_color=ffffff&color=333&line=5ad8a6&point=5bd8a6&area=true&hide_border=true&radius=16" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biaov&custom_title=代码贡献曲线图&bg_color=ffffff&color=333&line=5ad8a6&point=5bd8a6&area_color=98e7c7&area=true&hide_border=true&radius=16" />
 </p>
