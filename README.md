@@ -27,10 +27,10 @@
 ![介绍](https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&duration=2000&pause=1000&color=f56c6c&width=600&lines=~你好！👋;欢迎来到+biaov+的主页~;你可以从主页上了解到+biaov+的一些作品信息以及相关的技术知识;希望这里的技术知识能够对你有所帮助！;祝你好运！+😃)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biaov/biaov/assets/snake.svg"  />
+  <img src="https://raw.githubusercontent.com/biaov/biaov/assets/snake.svg" alt="代码贡献曲线图"  />
 </p>
 
 <p align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=biaov&hide_border=true&theme=vue&custom_title=代码贡献曲线图&radius=16&area=true" /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biaov&custom_title=代码贡献曲线图&bg_color=ffffff&color=666&title_color=5bd8a6&line=5ad8a6&point=5bd8a6&area_color=5bd8a6&area=true&radius=16" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biaov&custom_title=代码贡献曲线图&bg_color=ffffff&color=666&title_color=5bd8a6&line=5ad8a6&point=5bd8a6&area_color=5bd8a6&area=true&radius=16" alt="代码贡献曲线图" />
 </p>
