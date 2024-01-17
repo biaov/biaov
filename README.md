@@ -9,9 +9,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/biaov?logo=googlefit&logoColor=f56c6c&label=FOLLOWERS&color=409eff" alt="followers" />
-  <img src="https://img.shields.io/github/stars/biaov?logo=starship&label=STARTS&color=67c23a" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=biaov&label=PROFILE&nbsp;VIEWS&color=f56c6c" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/biaov?style=social&logo=googlefit&logoColor=f56c6c&label=FOLLOWERS&color=409eff" alt="followers" />
+  <img src="https://img.shields.io/github/stars/biaov?style=social&logo=starship&label=STARTS&color=67c23a" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?style=social&username=biaov&label=PROFILE&nbsp;VIEWS&color=f56c6c" alt="Profile views" />
 </p>
 <p align="center">😊😃😄😆😉😂😀😴😊</p>
 
