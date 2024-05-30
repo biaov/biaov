@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=biaov&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=cn" width="49%" title="biaov's github stats" alt="biaov's github stats" align="middle" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=biaov&theme=jolly&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" width="49.5%" title="CSDN 博客" alt="Github 贡献时长" align="middle" />
   <a href="https://blog.csdn.net/biao_feng">
-    <img src="https://stats-utils.vercel.app/api/csdn/biao_feng?title=biaov%20的%20CSDN%20数据" width="36.5%" title="CSDN 博客" alt="CSDN 博客" align="middle" />
+    <img src="https://stats-utils.vercel.app/csdn/biao_feng?title=biaov%20的%20CSDN%20数据" width="36.5%" title="CSDN 博客" alt="CSDN 博客" align="middle" />
   </a>
 </p>
 <p align="center">
