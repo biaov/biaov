@@ -1,2 +1,1 @@
-# ssh-keygen -t rsa -C "biaov@qq.com" -f ~/.ssh/gitee_id_rsa
-ssh-keygen -t rsa -C "biaov@qq.com"
+.git
